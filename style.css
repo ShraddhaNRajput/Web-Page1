@@ -1,0 +1,109 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.bgimage
+{
+    background-image: url(download.jpg);
+    background-size: 100% 110%;
+    width: 100%;
+    height: 100vh;
+}
+.menu
+{
+    width: 100%;
+    height:100px;
+    background-color: rgba(0,0,0,0.5);
+}
+.letfmenu
+{
+    width: 25%;
+    line-height: 100px;
+    text-transform: uppercase;
+    float:left;
+}
+.letfmenu h1
+{
+    padding-left: 70px;
+    font-weight: bold;
+    color: #fff;
+    font-size: 22px;
+}
+.rightmenu
+{
+    width: 75%;
+    height: 100px;
+    float: right;
+
+}
+.rightmenu ul
+{
+    margin-left: 200px;
+}
+.rightmenu ul li
+{
+    display: inline-block;
+    list-style: none;
+    font-size: 20px;
+    color: #fff;
+    font-weight: bold;
+    line-height: 100px;
+    text-transform: uppercase;
+    margin-left: 40px;
+    
+}
+.rightmenu ul li:hover
+{
+    color: orange;
+}
+.text
+{
+    width: 100%;
+    margin-top: 185px;
+    text-transform: uppercase;
+    text-align: center;
+    color: #fff;
+}
+.text h4
+{
+    font-size: 14px;
+}
+.text h1
+{
+    font-size: 60px;
+    font-weight: bold;
+    margin: 14px 0px;
+}
+.text h3
+{
+    font-size: 12px;
+    
+}
+#buttonone
+{
+    background-color: #fff;
+    border: none;
+    font-size: 12px;
+    text-transform: uppercase;
+    font-weight: bold;
+    line-height: 40px;
+    width: 150px;
+    margin-top: 25px;
+    border: 3px;
+    
+}
+#buttontwo
+{
+    background-color: transparent;
+    border: none;
+    font-size: 12px;
+    text-transform: uppercase;
+    font-weight: bold;
+    line-height: 40px;
+    width: 150px;
+    margin-top: 25px;
+    border: 3px solid white;
+    
+}
+
